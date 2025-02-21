@@ -1,3 +1,5 @@
+🌟 Blinkit Product Sales Analysis
+
 🚀 Project Overview
 
 This project analyzes Blinkit Product Sales Data using Python (Jupyter Notebook) and Power BI to gain insights into product pricing, category distribution, and trends. The analysis focuses on data cleaning, exploratory data analysis (EDA), and visualization to help understand the product landscape.
